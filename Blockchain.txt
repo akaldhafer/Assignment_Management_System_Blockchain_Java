@@ -1,0 +1,10 @@
+{
+  "hash": "40a853aeb89e0b7caa557f1cc3cd8b9c85f26fe6dcaf72c391b7db503010",
+  "previousHash": "0",
+  "title": "buiness",
+  "score": "A",
+  "subjectName": "buiness",
+  "description": "nice",
+  "timestamp_datestamp": "26/03/2021 _22.18.27",
+  "Dsignature": "CCJ+3FxScI8U/M0Y4Rw4pxic80jqu625xCeNW+/lqNvucTN0rfmrvDuwaUo6uqOiqq/tDcLIdtoEozjxPve01RMoHoBa0aOCOHQmYFQZ5AD2nmqvtqGpmM0ERpY4c8OYrWZIjwCCKNeOVKihZ59wpeadf+wA9mTU9NI5+zYR6f0\u003d"
+}
